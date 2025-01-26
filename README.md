@@ -11,8 +11,8 @@ This project will predict the winner of football matches in the English Premier 
 
 ## Code
 
-* `Scraping.py` - scrapes our data.
-* `Predictions.py` - makes predictions.
+* `scraping.py` - scrapes our data.
+* `predictions.py` - makes predictions.
 
 ## Installation
 
